@@ -1,1 +1,2 @@
-# A12---Processos-Autoregressivos
+# 12-Processos-ARIMA
+Processos autorregressivos integrados de médias móveis
